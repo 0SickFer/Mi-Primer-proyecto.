@@ -1,2 +1,2 @@
 # Mi-Primer-proyecto.
-guia 1
+Mi primer proyecto web con control de versiones en bachillerato".
